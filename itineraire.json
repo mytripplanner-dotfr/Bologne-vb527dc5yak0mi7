@@ -1,0 +1,101 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Bologne: Douceurs Émiliennes et Détente",
+  "budget_total": "850-950€ par personne",
+  "duree": "3 jours",
+  "temps_vol": "1h40 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas Gourmands",
+      "legende": "Après un vol rapide, installez-vous en douceur dans la capitale gastronomique d'Italie. Flânez sous les portiques emblématiques, imprégnez-vous de l'ambiance médiévale de la Piazza Maggiore et laissez-vous tenter par les saveurs locales du Quadrilatero pour une première immersion relaxante.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Bologne (BLQ) et transfert vers le centre-ville. Profitez du Marconi Express pour un trajet rapide et sans stress.",
+        "<strong>🛏️</strong>: Installation à votre hôtel 3 étoiles. Prenez le temps de vous rafraîchir et de vous détendre avant de partir à la découverte.",
+        "<strong>🚶‍♂️</strong>: Balade relaxante sur la Piazza Maggiore et dans le Quadrilatero. Admirez l'architecture, les étals des marchés et l'effervescence locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le centre historique de Bologne est très compact et se visite facilement à pied. Les portiques offrent un abri idéal en cas de pluie ou de forte chaleur."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Culture, Saveurs et Panoramas Doux",
+      "legende": "Cette journée est dédiée à la découverte du riche patrimoine culturel de Bologne, ponctuée de pauses gourmandes et d'une vue imprenable sur la ville. Laissez-vous charmer par l'élégance de l'Archiginnasio et la majesté des Deux Tours, avant de savourer un après-midi dédié à la détente ou à l'exploration culinaire.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>📚</strong>: Visite de l'Archiginnasio. Admirez l'ancien siège de l'université et son magnifique Théâtre Anatomique, un joyau historique.",
+        "<strong>🗼</strong>: Contemplation des Deux Tours (Asinelli et Garisenda). Observez ces symboles penchés de Bologne depuis la Piazza di Porta Ravegnana, sans nécessairement monter si vous préférez la détente.",
+        "<strong>🍝</strong>: Atelier de cuisine ou dégustation de produits locaux. Plongez dans la gastronomie émilienne en apprenant à faire des pâtes fraîches ou en savourant un tour guidé des spécialités."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Expérience culinaire",
+          "texte": "Bologne est réputée pour ses pâtes fraîches (tortellini, tagliatelle al ragù). Un atelier de cuisine est une excellente activité relaxante et enrichissante."
+        },
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Alternative douce",
+          "texte": "Si l'atelier ne vous tente pas, optez pour une balade au Giardini Margherita, le plus grand parc public de Bologne, pour un moment de quiétude."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🚶‍♀️",
+      "titre": "Sérénité et Départ",
+      "legende": "Pour cette dernière journée, échappez à l'agitation urbaine en vous offrant une promenade paisible sous le plus long portique du monde, menant au Sanctuaire de San Luca. Profitez d'une vue panoramique apaisante avant de savourer un dernier repas italien et de vous diriger vers l'aéroport, des souvenirs plein la tête.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Promenade sous le portique de San Luca. Marchez tranquillement le long de ses 666 arches jusqu'au Sanctuaire de la Madonna di San Luca, offrant une vue magnifique sur la ville et la campagne.",
+        "<strong>⛪</strong>: Visite du Sanctuaire de San Luca. Profitez du calme et de la vue imprenable. C'est une expérience spirituelle et visuelle apaisante.",
+        "<strong>🛍️</strong>: Derniers achats de souvenirs et déjeuner. Flânez dans les rues pour trouver des produits locaux ou des souvenirs avant de savourer un dernier repas typiquement bolognais.",
+        "<strong>✈️</strong>: Transfert vers l'aéroport de Bologne (BLQ) et vol retour vers Paris."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Accès à San Luca",
+          "texte": "Pour une option moins fatigante, vous pouvez prendre le \"San Luca Express\", un petit train touristique qui vous emmène directement au sanctuaire."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 208 €/pers (A/R)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 30-50 €/pers (Marconi Express, bus locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 225-315 €/pers (3 jours, 3 repas/jour, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 200-300 €/pers (2 nuits en hôtel 3 étoiles)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 50-100 €/pers (musées, atelier cuisine ou tour gourmand)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (Avril-Juin)", "symbole": "🌸" },
+    { "titre": "Automne (Septembre-Octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Le centre de Bologne est une zone à trafic limité (ZTL). Il est préférable de se déplacer à pied ou en transports en commun.", "symbole": "🚶‍♂️" },
+    { "titre": "La langue officielle est l'italien. Quelques notions de base sont appréciées, mais l'anglais est souvent parlé dans les zones touristiques.", "symbole": "🗣️" },
+    { "titre": "Le climat au printemps est doux et agréable, avec des températures moyennes entre 15 et 22°C. Prévoir des couches et un parapluie léger.", "symbole": "☀️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol Paris-Bologne", "url": "https://www.kayak.fr/flights/CDG-BLQ/2026-04-06/2026-04-09", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Bologne", "url": "https://www.bolognawelcome.com/fr/", "symbole": "📘" },
+    { "legende": "Transports en commun", "titre": "Tper (bus et Marconi Express)", "url": "https://www.tper.it/en", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Bologne", "url": "https://www.accuweather.com/fr/it/bologna/212003/weather-forecast/212003", "symbole": "🌤️" }
+  ]
+}
